@@ -29,6 +29,6 @@ export default {
     created() {
         this.getJobs()
         console.log(this.jobs)
-    },
-};
+    }
+}
 </script>
